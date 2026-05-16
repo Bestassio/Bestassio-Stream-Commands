@@ -1,42 +1,14 @@
 # Interaction Commands:
 
-!8ball - Ask a magic ball a question.
-
-!QOTD - Question of the day.
-
 !Joke - Request a joke. (Thank you IanChandler1990)
 
 !Dadjoke - Request a dad joke
 
 !Fact - Request a random fact
 
-!Hug - Hug someone
-
-!Hugback - Hug someone back (Thank you LunarisBellator for idea!)
-
 !Quote - Add or view a quote
 
 !Lurk - Lurk command, all lurks are really appreciated!
-
-!Unlurk - For when you come back from a lurk!
-
-!Boop - Boop a someone.
-
-!CoinFlip - Toss a coin.
-
-!Dance - Dance with someone.
-
-!FistBump - Fist Bump someone.
-
-!HeadPat - Headpat someone.
-
-!HighFive - Give someone a HIGH FIVE (Borat style)
-
-!Love - Find out love percentage between you and someone.
-
-!Tickle - Tickle someone?
-
-!Fart - Self explanatory I think
 
 !Death+ - Add +1 death when Bestassio dies in game
 
@@ -57,49 +29,29 @@
 
 !AccountAge - Check your or someone else's account age.
 
-!UpTime - Check how long @Bestassio has been live for.
-
-!Followers - Check how many followers @Bestassio has.
-
-!ManagerRules - Check the rules of "Become my manager" channel point Redemption.
-
-!MediaShare - Media share (show video on stream) information.
-
-!Clip - Quickly clip the last 30s
-
 !Raid - Check template raid message.
 
 !RaidSub - Check template subscriber raid message.
 
 !Discord - Discord Invitation link
 
-!Translate - Translate something from another language. (Beta)
-
 !Time - Find out what time it is for Bestassio. If you wanna know..
-
-?Music - Find out information about music which is played on stream!
 
 !M2K - Convert MPH to KMH (Thank you IanChandler1990)
 
 !K2M - Convert KMH to MPH (Thank you IanChandler1990)
 
-!PlayingWith - Shows who we are playing with
-
-!GTA5 - Check out Bestassio's GTA5 hours! (UPDATED LIVE)
-
 !C2F - Convert Celsius to Fahreinheit
 
 !F2C - Convert Fahrenheit to Celsius
 
+!PlayingWith - Shows who we are playing with
+
+!GTA5 - Check out Bestassio's GTA5 hours! (UPDATED LIVE)
+
 # Miscellaneous Commands:
 
 !Tip - Get a tip link, idk why would you want to
-
-!Socials - Get links for Bestassio Socials
-
-!Youtube - Get a link for Bestassio YouTube Channel.
-
-!Clips - Get a link for Bestassio YouTube Channel
 
 
 # Regulars ONLY:
@@ -108,10 +60,8 @@
 
 !suggest <Prompt> - Suggest something for me!
 
-!so <User> - Give a shoutout!
 
-
-# Bestassio Coins Commands:
+# Bestassio Coins Commands (Twitch Only):
 
 
 !Gamble - Gamble your coins!
